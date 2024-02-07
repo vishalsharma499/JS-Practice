@@ -12,3 +12,4 @@
 
 // === it is check value and data type of value also
  console.log("2" === 2); // output-false because data type is different
+
