@@ -6,7 +6,7 @@
 
 # Solution Code
 ## project 1
-```
+``` javascript
 console.log("Vishal")
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
